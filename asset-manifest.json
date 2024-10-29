@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coursera-react/static/css/main.5f2e4ae3.css",
-    "main.js": "/coursera-react/static/js/main.01720004.js",
+    "main.js": "/coursera-react/static/js/main.82561e96.js",
     "static/media/background.jpg": "/coursera-react/static/media/background.df3043f4496ec21459d8.jpg",
     "index.html": "/coursera-react/index.html",
     "main.5f2e4ae3.css.map": "/coursera-react/static/css/main.5f2e4ae3.css.map",
-    "main.01720004.js.map": "/coursera-react/static/js/main.01720004.js.map"
+    "main.82561e96.js.map": "/coursera-react/static/js/main.82561e96.js.map"
   },
   "entrypoints": [
     "static/css/main.5f2e4ae3.css",
-    "static/js/main.01720004.js"
+    "static/js/main.82561e96.js"
   ]
 }
